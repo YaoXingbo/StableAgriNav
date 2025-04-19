@@ -1,5 +1,5 @@
-# StableAgriNav
-Adaptive Navigation for Robots in Unstructured Agricultural Environments Using Stable Feature Localization and Multi-Sensor Obstacle Detection
+# AdaptiveAgriNav
+Adaptive navigation for robots in unstructured agricultural environments using stable feature localization and multi-sensor obstacle detection
 
 
 # Code and Dataset
